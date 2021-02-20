@@ -1,3 +1,9 @@
+
+# Author - Devansh Singh
+
+# This is only the UI [React.js] code. The backend code uses Spring Boot & AWS S3 and can be found here:
+https://github.com/devansh1497/Image-dropzone-Backend-
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
